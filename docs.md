@@ -3,9 +3,9 @@
 Protótipo desenvolvido em Python aplicando os pilares da Programação Orientada a Objetos (Encapsulamento, Herança e Polimorfismo) e versionamento colaborativo com Git/GitHub.
 
 ## Integrantes do Grupo
-- [Nome do Integrante 1]
-- [Nome do Integrante 2]
-- [Nome do Integrante 3]
+- Otavio Villela Chermack
+- Victor Caglioni
+- Isaac Saorin
 
 ## Descrição das Classes
 - **`Produto` (`produto.py`)**: Classe base com atributos privados (`__nome`, `__preco`), validações via `@property` e método base `calcular_tempo_preparo()`.
