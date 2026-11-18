@@ -1,1 +1,0 @@
-git clone [URL-DO-SEU-REPOSITORIO]
